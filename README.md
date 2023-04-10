@@ -1,6 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
+## Who Am I?
+* 🎓 Advanced Diploma (OCAD) in Software Engineering Technology from Centennial College
+* 🏢 Programming Instructor
+* 👩‍💻 Aspiring Developer in Web and Mobile
+* ✨ Passionate about tech
+* 😄 ENFJ-A personality
+* 💻 Experienced in building Web Apps
+* 📍  Tech Nerd in Toronto, Canada
+
+<!--## What am I good at?
+
+
 **Takahatamo/Takahatamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
